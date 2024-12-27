@@ -18,7 +18,8 @@ Formula 1 is one of the most thrilling motorsports, known for its speed, precisi
 - Beginner-friendly explanations of F1 basics.
 - Visual guides to cars, tracks, and drivers.
 - Organized and easy-to-navigate sections for a seamless learning experience.
-
+  
+![screens](https://github.com/user-attachments/assets/e8d7c4d4-3dae-4ab8-b7b7-a2c04e62997a)
 
 
 ## Features
