@@ -40,6 +40,7 @@ Formula 1 is one of the most thrilling motorsports, known for its speed, precisi
 ## Technologies Used
 - **Flutter**: For building the app UI and functionality.
 - **Dart**: Primary programming language.
+- **Firebase**: Databased control and creating API of cars and it's detailed information.
 
 ## Installation
 1. Clone the repository:
