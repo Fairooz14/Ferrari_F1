@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967688498381",
+    "project_id": "ferrari-app-7dcb5",
+    "storage_bucket": "ferrari-app-7dcb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967688498381:android:ad20b68649448e7a394d84",
+        "android_client_info": {
+          "package_name": "com.example.ferrari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-iOYIKI9qI0vN9cXjgLmNlbInBVdJKSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
